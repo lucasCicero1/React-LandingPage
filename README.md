@@ -10,6 +10,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <div>
   <li>React</li>
-  <li>Styled-components</li>
   <li>Material-UI</li>
 </div>
+
+
+## 🚧 LandingPage 🚀 Em construção... 🚧
+
